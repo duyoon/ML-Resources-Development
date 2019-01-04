@@ -1,3 +1,4 @@
 # ML-Resources-Development
 
-준비중입니다...
+자원개발 머신러닝 입문 예제 코드
+
